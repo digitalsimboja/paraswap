@@ -1,3 +1,6 @@
-# paraswap
 A Fully Decentralized Trading Protocol | Trustless Token Swap
+
+A Trustless Token Swap in a Solidty Smart Contract. 
+
+Paraswap is a fully decentralized trading protocol
 
