@@ -1,2 +1,3 @@
 # paraswap
-A Fully Decentralized Trading Protocol 
+A Fully Decentralized Trading Protocol | Trustless Token Swap
+
