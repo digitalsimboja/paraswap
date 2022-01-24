@@ -2,8 +2,8 @@
 
 pragma solidity ^0.8.0;
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
-import "./FirstToken.sol";
-import "./SecondToken.sol";
+import "./SwapTokenA.sol";
+import "./SwapTokenB.sol";
 
 
 contract ParaSwap {
