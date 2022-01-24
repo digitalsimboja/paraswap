@@ -1,0 +1,31 @@
+{
+  "name": "paraswap",
+  "version": "1.0.0",
+  "description": "A Fully Decentralized Trading Protocol | Trustless Token Swap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalsimboja/paraswap.git"
+  },
+  "keywords": [
+    "solidity",
+    "paraswap",
+    "paraswap token swap",
+    "solidity token swap smart contract"
+  ],
+  "author": "Sunday Mgbogu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digitalsimboja/paraswap/issues"
+  },
+  "homepage": "https://github.com/digitalsimboja/paraswap#readme",
+  "devDependencies": {
+    "hardhat": "^2.8.3"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.2"
+  }
+}

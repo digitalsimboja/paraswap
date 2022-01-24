@@ -2,12 +2,17 @@
 
 pragma solidity ^0.8.0;
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
+import "./FirstToken.sol";
+import "./SecondToken.sol";
+
 
 contract ParaSwap {
     address payable owner;
-    uint256 ratioAtoB;
-    bool isAcheaperthanB;
-    uint256 swapFee;
+    uint256 ratioTokenAtoB;
+    bool isTokenAcheaperThanTokenB;
+    uint256 swapFees;
+
 
     //Instantiate the tokens to be swapped
+
 }
