@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/digitalsimboja/paraswap#readme",
   "devDependencies": {
-    "hardhat": "^2.8.3"
+    "hardhat": "^2.9.1"
   },
   "dependencies": {
     "@openzeppelin/contracts": "^4.4.2"
